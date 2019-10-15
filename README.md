@@ -9,6 +9,6 @@ This game includes:
 The game is free to modfiy, play, and to create your own versions to distrubute but you cannot monitise it. Please look at the Lincense.txt for more information.
 
 
-To compile the game, download the source code.
+To compile the game, download the source code, then use electron and electron-builder to compile the game.
 To download a compiled copy then go to builds, then choose your OS. Download the file for your OS.
 
